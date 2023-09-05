@@ -9,7 +9,7 @@ public class FloorBinarySearchImpl implements Floor {
 
 		if (array.length == 0) {return -1;}
 		
-		sort(array, 0, array.length);
+		sort(array, 0, array.length - 1);
 		int idx = 0;
 
         if (binarySearch(array, x, 0, array.length - 1) == -1) {
