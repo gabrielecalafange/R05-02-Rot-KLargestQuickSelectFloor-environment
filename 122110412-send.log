@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-04T14:35:44.547-0300</date>
+  <logger>GABRIELE MEDEIROS CALAFANGE</logger>
+  <level>FINE</level>
+  <message>File 122110412-GABRIELE MEDEIROS CALAFANGE.zip was received. It was sent by GABRIELE MEDEIROS CALAFANGE from IP 10.0.0.7 at 04-09-2023 14*35*44</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-04T15:31:11.355-0300</date>
+  <logger>GABRIELE MEDEIROS CALAFANGE</logger>
+  <level>FINE</level>
+  <message>File 122110412-GABRIELE MEDEIROS CALAFANGE.zip was received. It was sent by GABRIELE MEDEIROS CALAFANGE from IP 10.0.0.7 at 04-09-2023 15*31*11</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-04T23:38:32.160-0300</date>
+  <logger>GABRIELE MEDEIROS CALAFANGE</logger>
+  <level>FINE</level>
+  <message>File 122110412-GABRIELE MEDEIROS CALAFANGE.zip was received. It was sent by GABRIELE MEDEIROS CALAFANGE from IP 10.0.0.7 at 04-09-2023 23*38*32</message>
+</record>
